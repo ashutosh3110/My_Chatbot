@@ -323,15 +323,15 @@ body.show-emoji-picker em-emoji-picker{
  @media (max-width: 520px){
     #chatbot-toggler{
         right:20px;
-        bottom: 20px;
+        bottom: 120px;
     }
 
     .chatbot-popup{
-        right: 0;
-        bottom: 0;
-        height: 100%;
-        border-radius: 0;
-        width: 100%;
+        right: 20px;
+        bottom: 120px;
+        height: 50%;
+        border-radius: 15px;
+        width: 70%;
     }
 
     .chatbot-popup .chat-header{
